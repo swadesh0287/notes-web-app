@@ -27,4 +27,4 @@ The application utilizes local storage to persist notes. Notes are saved automat
 - JavaScript
 
 ## Author
-[Vishakha Singhal]
+[Swadesh Kumar]
