@@ -1,4 +1,4 @@
-# Google Keep Clone
+# Notes Web App
 
 ## Overview
 This project is a web-based note-taking application inspired by Google Keep. Users can easily create, edit, and delete notes with a simple and intuitive interface. The notes are stored locally using the browser's localStorage.
